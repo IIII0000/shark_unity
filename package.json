@@ -1,0 +1,16 @@
+{
+  "name": "com.shark.tool",
+  "version": "1.0.0",
+  "displayName": "SharkTool",
+  "description": "SharkTool is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotupdate.",
+  "category": "Runtime",
+  "keywords": [
+    "Shark",
+    "Tool"
+  ],
+  "author": {
+    "name": "Code Shark",
+    "email": "shark@code.com",
+    "url": "https://code-shark.com"
+  }
+}
